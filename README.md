@@ -14,6 +14,8 @@ Setup:
    1. Install chrome livereload browser extension
    2. Navigate to the index.html file using your filemanager and open in the browser as local file.
    3. As you update any elm or html file, chrome will reload the page automatically.
+   
+ In windows livereload may not work as described above.  If this is the case find another solution.
 
 
 
